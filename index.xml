@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victor Mendonça</title>
+    <link>/</link>
+    <description>Recent content on Victor Mendonça</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Oct 2014 20:07:19 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>/post/first/</link>
+      <pubDate>Mon, 13 Oct 2014 20:07:19 +0000</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description>##Hello first post</description>
+    </item>
+    
+    <item>
+      <title>second</title>
+      <link>/post/second/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:45 +0200</pubDate>
+      
+      <guid>/post/second/</guid>
+      <description>##Post background color change</description>
+    </item>
+    
+    <item>
+      <title>third</title>
+      <link>/post/third/</link>
+      <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
+      
+      <guid>/post/third/</guid>
+      <description>##Carrousel Carrousel are special hugo Section that has no content but use the toml header to populate a slide show.</description>
+    </item>
+    
+  </channel>
+</rss>
